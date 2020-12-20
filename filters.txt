@@ -27,3 +27,8 @@ fandom.com##.wiki-top-articles
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.WikiaBarWrapper
 fandom.com##.feed-layout__right-rail
+fandom.com###article-comments-button
+fandom.com###ShareEntryPoint
+fandom.com##.wds-button-group.wds-community-header__wiki-buttons
+fandom.com##.wds-community-header__counter-label
+fandom.com##.wds-community-header__counter-value
