@@ -1,11 +1,13 @@
 # fandom-fixer
-I made a uBlock list that makes using Fandom wikis a bit more bareable to use.
+A filter list that removes all tracking and annoyances from Wikia/Fandom wikis.
 
 Contributions and requests are always welcome!
 
 [Subscribe](https://raw.githubusercontent.com/normanlol/fandom-fixer/main/filters.txt)
 
 ## Comparison
+These pictures are *probably* not accurate as this filter list is updated pretty often with new filters.
+
 ### Before
 ![Before](./before-after/before.jpg)
 
