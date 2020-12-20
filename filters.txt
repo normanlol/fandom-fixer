@@ -1,0 +1,22 @@
+fandom.com##.is-ready.wikia-rail-inner
+fandom.com###WikiaRailWrapper
+fandom.com##.CommentList_comment-list__2eFaY
+fandom.com##.article-comments-app > .InlineEntityFormWrapper_inline-entity-form-wrapper__12amV
+fandom.com##.wds-is-fandom-apps.wds-global-footer__section
+fandom.com##.wds-is-fandom-stores.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item > .wds-global-footer__link > .wds-icon.wds-global-footer__link-image > use
+fandom.com##.wds-is-fandom-stores.wds-global-footer__section > .wds-global-footer__image > .wds-icon > use
+fandom.com##.wds-is-fandom-stores.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item > .wds-global-footer__link > .wds-icon.wds-global-footer__link-image
+fandom.com##.wds-is-fandom-stores.wds-global-footer__section > .wds-global-footer__image > .wds-icon
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
+fandom.com##.wds-global-footer__main
+fandom.com###mixed-content-footer
+fandom.com##.wds-global-navigation__links
+fandom.com##.wds-global-navigation__start-a-wiki > .wds-global-navigation__link-button.wds-is-secondary.wds-button
+fandom.com##.wds-global-navigation__user-anon.wds-has-dark-shadow.wds-global-navigation__user-menu.wds-dropdown
+fandom.com##.wds-global-navigation__search-scope.wds-dropdown
+fandom.com##.is-expanded.community-info
+fandom.com##.home-page-desktop__left
+fandom.com##.wiki-top-articles
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.WikiaBarWrapper
+fandom.com##.feed-layout__right-rail
