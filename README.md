@@ -1,8 +1,18 @@
 # fandom-fixer
 I made a uBlock list that makes using Fandom wikis a bit more bareable to use.
 
+Contributions and requests are always welcome!
+
 [Subscribe](https://raw.githubusercontent.com/normanlol/fandom-fixer/main/filters.txt)
 
+## Comparison
+### Before
+![Before](./before-after/before.jpg)
+
+### After
+![After](./before-after/after.jpg)
+
+See for yourself on [this page](https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_(character)/appearances).
 ## How to Subscribe
 ### uBlock Origin
 1. Copy the Subscribe Link
