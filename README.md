@@ -5,8 +5,6 @@ Contributions and requests are always welcome!
 
 [Subscribe](https://raw.githubusercontent.com/normanlol/fandom-fixer/main/filters.txt)
 
-[Subscribe (Ublock)](moz-extension://891ba6a7-d4b5-4f81-8a2d-83cdb529f8c9/asset-viewer.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnormanlol%2Ffandom-fixer%2Fmain%2Ffilters.txt)
-
 ## Comparison
 These pictures are *probably* not accurate as this filter list is updated pretty often with new filters.
 
