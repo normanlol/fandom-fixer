@@ -1,7 +1,7 @@
 ! Title: FandomFixer
 ! Author: https://github.com/normanlol/
 ! Homepage: https://github.com/normanlol/fandom-fixer
-! Description: Makes Fandom wikis have less clutter
+! Description: Makes Fandom wikis have less clutter and get rid of all tracking.
 ! License: https://github.com/normanlol/fandom-fixer/blob/main/LICENSE
 
 ! Tracking Removal
