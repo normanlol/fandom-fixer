@@ -4,6 +4,7 @@
 ! Description: Makes Fandom wikis have less clutter
 ! License: https://github.com/normanlol/fandom-fixer/blob/main/LICENSE
 
+! Main Fandom.com filters
 fandom.com##.is-ready.wikia-rail-inner
 fandom.com###WikiaRailWrapper
 fandom.com##.CommentList_comment-list__2eFaY
