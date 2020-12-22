@@ -38,3 +38,5 @@ fandom.com###ShareEntryPoint
 fandom.com##.wds-button-group.wds-community-header__wiki-buttons
 fandom.com##.wds-community-header__counter-label
 fandom.com##.wds-community-header__counter-value
+fandom.com##.wds-global-footer__header
+fandom.com##.wds-global-footer__bottom-bar
