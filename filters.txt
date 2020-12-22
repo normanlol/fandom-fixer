@@ -8,7 +8,6 @@
 ||fastly-insights.com^
 ||imrworldwide.com^
 ||amazon-adsystem.com^
-||static.wikia.nocookie.net^
 ||google-analytics.com^
 
 ! Main Fandom.com filters
