@@ -8,7 +8,9 @@
 ||fastly-insights.com^
 ||imrworldwide.com^
 ||amazon-adsystem.com^
+||scorecardresearch.com^
 ||google-analytics.com^
+||googletagmanager.com^
 
 ! Main Fandom.com filters
 fandom.com##.is-ready.wikia-rail-inner
@@ -40,3 +42,5 @@ fandom.com##.wds-community-header__counter-label
 fandom.com##.wds-community-header__counter-value
 fandom.com##.wds-global-footer__header
 fandom.com##.wds-global-footer__bottom-bar
+fandom.com##.wds-global-navigation__link
+fandom.com##.wds-dropdown.wds-global-navigation__wikis-menu > .wds-global-navigation__dropdown-toggle.wds-dropdown__toggle
