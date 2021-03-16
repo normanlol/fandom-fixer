@@ -52,5 +52,10 @@ spongebob.fandom.com##.rcs-container > div.mainpage-box:nth-of-type(1)
 spongebob.fandom.com##.rcs-container > div.mainpage-box:nth-of-type(2)
 
 ! simpsons wiki
-
 simpsons.fandom.com##.rcs-container
+
+! danger force wiki
+dangerforce.fandom.com##div.headingB:nth-of-type(5)
+dangerforce.fandom.com##.rcs-container > div.heading
+dangerforce.fandom.com##.rcs-container > table
+dangerforce.fandom.com##div.headingB:nth-of-type(9)
