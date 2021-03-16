@@ -45,6 +45,7 @@ fandom.com##.wds-global-footer__bottom-bar
 fandom.com##.wds-global-navigation__link
 fandom.com##.wds-dropdown.wds-global-navigation__wikis-menu > .wds-global-navigation__dropdown-toggle.wds-dropdown__toggle
 fandom.com##.DiscordWidget
+fandom.com##.unified-search__layout__right-rail
 
 ! Social Networking Removal
 
@@ -60,3 +61,40 @@ dangerforce.fandom.com##div.headingB:nth-of-type(5)
 dangerforce.fandom.com##.rcs-container > div.heading
 dangerforce.fandom.com##.rcs-container > table
 dangerforce.fandom.com##div.headingB:nth-of-type(9)
+
+! catdog wiki
+catdog.fandom.com###mw-content-text > .mw-parser-output > p
+
+! 101 dalmation street
+101dalmatianstreet.fandom.com##.rcs-container > table.color-base.bgrevo:nth-of-type(6)
+101dalmatianstreet.fandom.com##.rcs-container > table.color-base.bgrevo:nth-of-type(5)
+
+! 101 dalmation street fanon
+101dalmatianstreet-fanon.fandom.com##.rcs-container > h2:nth-of-type(1)
+101dalmatianstreet-fanon.fandom.com##.rcs-container > p:nth-of-type(1)
+
+! alvin & the chipmunks
+alvin.fandom.com##.rcs-container
+
+! tawog
+theamazingworldofgumball.fandom.com##.rcs-container > div:nth-of-type(1)
+
+! amphibia-pedia
+amphibiapedia.fandom.com##.rcs-container > table.color-base.bgrevo:nth-of-type(2)
+amphibiapedia.fandom.com##.rcs-container > table.color-base.bgrevo:nth-of-type(3)
+amphibiapedia.fandom.com##table.color-base.bgrevo:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(2) > td > p
+
+! astoldbyginger
+astoldbyginger.fandom.com##.main-page-tag-rcs
+
+! bfdi
+battlefordreamisland.fandom.com##.rcs-container > p:nth-of-type(7)
+battlefordreamisland.fandom.com##h2:nth-of-type(5)
+
+! big city greens
+bigcitygreens.fandom.com##.WikiaNotifications
+
+! amphibia fanon
+amphibiapediafanon.fandom.com##p:nth-of-type(4)
+amphibiapediafanon.fandom.com##.rcs-container > h2:nth-of-type(3)
+amphibiapediafanon.fandom.com##.rcs-container
