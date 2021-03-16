@@ -44,6 +44,7 @@ fandom.com##.wds-global-footer__header
 fandom.com##.wds-global-footer__bottom-bar
 fandom.com##.wds-global-navigation__link
 fandom.com##.wds-dropdown.wds-global-navigation__wikis-menu > .wds-global-navigation__dropdown-toggle.wds-dropdown__toggle
+fandom.com##.DiscordWidget
 
 ! Social Networking Removal
 
